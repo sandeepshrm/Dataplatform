@@ -6,4 +6,4 @@ def read_file(filename,sep):
     sum = 10 + 30
     print("The addtion of 10 + 30 = ",sum)
 
-read_file("testdata.txt",",")
+read_file("./testdata.txt",",")
